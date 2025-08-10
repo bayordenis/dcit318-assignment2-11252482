@@ -1,5 +1,5 @@
 using System;
-
+// This file demonstrates the use of inheritance in C# by defining a base class and derived classes.
 namespace Inheritance
 {
     // Base class

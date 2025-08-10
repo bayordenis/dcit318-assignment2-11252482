@@ -2,7 +2,7 @@ using System;
 
 namespace Interface
 {
-    // Interface
+    // Interface demo
     interface IMovable
     {
         void Move();
